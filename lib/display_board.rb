@@ -4,5 +4,5 @@
       puts "   |   |   "
       puts "-----------"
       puts "   |   |   "
-      puts "x == board[4]"
+      puts "x == board[1][1]"
 end
